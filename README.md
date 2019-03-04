@@ -72,9 +72,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## What Did I Learn
 
-- Semantic UI React component library
-- Firebase Functions
-- Destructuring mapStateToProps properties inside the react-redux 'connect' method intead of setting up an external variable
+- Initial configuration
+- Loaders
+- Overlay for better Error handling
 
 <!-- CONTACT -->
 
