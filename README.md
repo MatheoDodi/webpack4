@@ -79,6 +79,7 @@ Contributions are what make the open source community such an amazing place to b
 - File loader
 - Extract loader
 - Overlay for better Error handling
+- Babel
 
 <!-- CONTACT -->
 

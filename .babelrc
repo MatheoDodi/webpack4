@@ -1,3 +1,11 @@
 {
-  "plugins": ["transform-es2015-arrow-functions"]
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "debug": true
+      }
+    ]
+  ],
+  "plugins": ["@babel/plugin-transform-runtime"]
 }
