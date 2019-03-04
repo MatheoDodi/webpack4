@@ -73,7 +73,11 @@ Contributions are what make the open source community such an amazing place to b
 ## What Did I Learn
 
 - Initial configuration
-- Loaders
+- Style loader
+- CSS loader
+- HTML loader
+- File loader
+- Extract loader
 - Overlay for better Error handling
 
 <!-- CONTACT -->
