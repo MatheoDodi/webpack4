@@ -80,6 +80,7 @@ Contributions are what make the open source community such an amazing place to b
 - Extract loader
 - Overlay for better Error handling
 - Babel
+- Hot reloading
 
 <!-- CONTACT -->
 
