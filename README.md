@@ -81,6 +81,7 @@ Contributions are what make the open source community such an amazing place to b
 - Overlay for better Error handling
 - Babel
 - Hot reloading
+- Creating a custom React setup
 
 <!-- CONTACT -->
 
